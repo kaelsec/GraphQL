@@ -1,5 +1,7 @@
 # Vendor-Agnostic Native GraphQL Security Standard (v1.1)
 
+This is not an official standard; it’s a practitioner baseline.
+
 A practitioner-driven security standard that defines **GraphQL-native security risks and baselines**,  
 independent of vendors, frameworks, or specific implementations.
 
