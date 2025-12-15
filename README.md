@@ -100,7 +100,7 @@ to
 
 ## 📄 Document
 
-- [`graphql_native_security_standard_v1.1.md`](./graphql_native_security_standard_v1.1.md)
+- [`Vendor-Agnostic_Native_GraphQL_Security_Standard_v1.1.md`](./Vendor-Agnostic_Native_GraphQL_Security_Standard_v1.1.md)
 
 ---
 
